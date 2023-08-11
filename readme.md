@@ -22,3 +22,5 @@ O projeto Movie foi desenvolvido com o objetivo de criar uma interface interativ
 5. Clique em um filme para visualizar mais detalhes, como elenco, gênero e ano de lançamento.
 
 Divirta-se explorando o mundo dos filmes com o projeto Movie! 🍿🎉
+
+<a href="https://movies-catalogo.vercel.app/"> clique para acessar </a>
