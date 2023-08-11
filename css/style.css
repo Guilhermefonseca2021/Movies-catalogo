@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #020202;
+}
+
+header {
+    background-color: cornflowerblue;
+}
+
+h1.title {
+    color: beige;
+    padding: .6rem;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+form {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+form {
+    max-width: 70%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid #333;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+#pesquisa {
+    padding: 5px;
+    width: 100%;
+    outline: none;
+    border: none;
+    border-radius: 20px;
+    background-color: whitesmoke;
+}
+
+#search-icon {
+    padding: 5px;
+    border: none;
+    background-color: whitesmoke;
+}
+
+.lista {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 5px;
+    align-items: start;
+    justify-content: start;
+}
+
+.item {
+    text-align: center;
+    padding: 10px;
+    width: 150px;
+    height: 300px;
+    border: 2px solid cornflowerblue;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.item:hover {
+    background-color: cornflowerblue;
+}
+
+.item h2 {
+    line-height: 1.2rem;
+    color: aliceblue;
+    font-size: 1rem;
+    text-align: left;
+}
+
+.item img {
+    width: 100%;
+}
