@@ -24,3 +24,5 @@ O projeto Movie foi desenvolvido com o objetivo de criar uma interface interativ
 Divirta-se explorando o mundo dos filmes com o projeto Movie! 🍿🎉
 
 <a href="https://movies-catalogo.vercel.app/" target="_blank"> clique para acessar </a>
+
+<img width="960" alt="MovieCatalog" src="https://github.com/Guilhermefonseca2021/Movies-catalogo/assets/92196697/2edfaf5c-11c5-43bd-9a17-ba71bb92c66e">
